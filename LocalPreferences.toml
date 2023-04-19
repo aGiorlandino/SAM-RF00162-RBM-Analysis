@@ -1,0 +1,8 @@
+[Rfam]
+RFAM_DIR = "DATA/RFAM"
+RFAM_VERSION = "14.7"
+
+[SamApp]
+DATA_DIRECTORY = "/DATA/SAM/data"
+DECRYPTED_GIT = "/DATA/SAM/decrypted"
+DECRYPTED_KODA_GIT = "/DATA/SAM/decrypted_koda"
