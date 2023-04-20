@@ -1,0 +1,554 @@
+{
+    "arch": null,
+    "build": "pyh864c0ab_1",
+    "build_number": 1,
+    "build_string": "pyh864c0ab_1",
+    "channel": "https://conda.anaconda.org/bioconda/noarch",
+    "constrains": [],
+    "depends": [
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "python"
+    ],
+    "extracted_package_dir": "/Users/alessiogiorlandino/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/logomaker-0.8-pyh864c0ab_1",
+    "files": [
+        "lib/python3.11/site-packages/logomaker-0.8.dist-info/INSTALLER",
+        "lib/python3.11/site-packages/logomaker-0.8.dist-info/LICENSE",
+        "lib/python3.11/site-packages/logomaker-0.8.dist-info/METADATA",
+        "lib/python3.11/site-packages/logomaker-0.8.dist-info/RECORD",
+        "lib/python3.11/site-packages/logomaker-0.8.dist-info/WHEEL",
+        "lib/python3.11/site-packages/logomaker-0.8.dist-info/direct_url.json",
+        "lib/python3.11/site-packages/logomaker-0.8.dist-info/top_level.txt",
+        "lib/python3.11/site-packages/logomaker/__init__.py",
+        "lib/python3.11/site-packages/logomaker/examples/19.05.14_colorblind.ipynb",
+        "lib/python3.11/site-packages/logomaker/examples/datafiles/ars_sequences.txt.gz",
+        "lib/python3.11/site-packages/logomaker/examples/datafiles/ars_wt_sequence.txt",
+        "lib/python3.11/site-packages/logomaker/examples/datafiles/crp_sites.fa",
+        "lib/python3.11/site-packages/logomaker/examples/datafiles/nn_saliency_values.txt",
+        "lib/python3.11/site-packages/logomaker/examples/datafiles/ss_sequences.txt",
+        "lib/python3.11/site-packages/logomaker/examples/datafiles/ww_sequences.fa",
+        "lib/python3.11/site-packages/logomaker/examples/demo_colorschemes.py",
+        "lib/python3.11/site-packages/logomaker/examples/demo_fig1b.py",
+        "lib/python3.11/site-packages/logomaker/examples/demo_fig1c.py",
+        "lib/python3.11/site-packages/logomaker/examples/demo_fig1d.py",
+        "lib/python3.11/site-packages/logomaker/examples/demo_fig1e.py",
+        "lib/python3.11/site-packages/logomaker/examples/demo_fig1f.py",
+        "lib/python3.11/site-packages/logomaker/examples/demo_logo.py",
+        "lib/python3.11/site-packages/logomaker/examples/examples.ipynb",
+        "lib/python3.11/site-packages/logomaker/examples/figure.ipynb",
+        "lib/python3.11/site-packages/logomaker/examples/logos/ars_enrichment_logo.png",
+        "lib/python3.11/site-packages/logomaker/examples/logos/color_schemes.png",
+        "lib/python3.11/site-packages/logomaker/examples/logos/crp_energy_logo.png",
+        "lib/python3.11/site-packages/logomaker/examples/logos/figure1_logos.pdf",
+        "lib/python3.11/site-packages/logomaker/examples/logos/logomaker_logo.png",
+        "lib/python3.11/site-packages/logomaker/examples/logos/nn_saliency_logo.png",
+        "lib/python3.11/site-packages/logomaker/examples/logos/ss_probability_logo.png",
+        "lib/python3.11/site-packages/logomaker/examples/logos/ww_information_logo.png",
+        "lib/python3.11/site-packages/logomaker/examples/logos_from_datafiles.ipynb",
+        "lib/python3.11/site-packages/logomaker/examples/matrices/ars_enrichment_matrix.txt",
+        "lib/python3.11/site-packages/logomaker/examples/matrices/crp_counts_matrix.txt",
+        "lib/python3.11/site-packages/logomaker/examples/matrices/crp_energy_matrix.txt",
+        "lib/python3.11/site-packages/logomaker/examples/matrices/logomaker_logo_matrix.txt",
+        "lib/python3.11/site-packages/logomaker/examples/matrices/nn_saliency_matrix.txt",
+        "lib/python3.11/site-packages/logomaker/examples/matrices/ss_probability_matrix.txt",
+        "lib/python3.11/site-packages/logomaker/examples/matrices/ww_counts_matrix.txt",
+        "lib/python3.11/site-packages/logomaker/examples/matrices/ww_information_matrix.txt",
+        "lib/python3.11/site-packages/logomaker/examples/scratch.ipynb",
+        "lib/python3.11/site-packages/logomaker/src/Glyph.py",
+        "lib/python3.11/site-packages/logomaker/src/Logo.py",
+        "lib/python3.11/site-packages/logomaker/src/__init__.py",
+        "lib/python3.11/site-packages/logomaker/src/colors.py",
+        "lib/python3.11/site-packages/logomaker/src/error_handling.py",
+        "lib/python3.11/site-packages/logomaker/src/examples.py",
+        "lib/python3.11/site-packages/logomaker/src/matrix.py",
+        "lib/python3.11/site-packages/logomaker/src/validate.py",
+        "lib/python3.11/site-packages/logomaker/tests/__init__.py",
+        "lib/python3.11/site-packages/logomaker/tests/functional_test_output.txt",
+        "lib/python3.11/site-packages/logomaker/tests/functional_tests_logomaker.py",
+        "lib/python3.11/site-packages/logomaker/__pycache__/__init__.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_colorschemes.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1b.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1c.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1d.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1e.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1f.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_logo.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/src/__pycache__/Glyph.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/src/__pycache__/Logo.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/src/__pycache__/__init__.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/src/__pycache__/colors.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/src/__pycache__/error_handling.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/src/__pycache__/examples.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/src/__pycache__/matrix.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/src/__pycache__/validate.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/tests/__pycache__/__init__.cpython-311.pyc",
+        "lib/python3.11/site-packages/logomaker/tests/__pycache__/functional_tests_logomaker.cpython-311.pyc"
+    ],
+    "fn": "logomaker-0.8-pyh864c0ab_1.tar.bz2",
+    "license": "MIT",
+    "license_family": "MIT",
+    "link": {
+        "source": "/Users/alessiogiorlandino/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/logomaker-0.8-pyh864c0ab_1",
+        "type": 1
+    },
+    "md5": "a2bb7ee897ce5178c3f15a3c88c51c50",
+    "name": "logomaker",
+    "noarch": "python",
+    "package_tarball_full_path": "/Users/alessiogiorlandino/.julia/scratchspaces/0b3b1443-0f03-428d-bdfb-f27f9c1191ea/root/pkgs/logomaker-0.8-pyh864c0ab_1.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.11/site-packages/logomaker-0.8.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker-0.8.dist-info/LICENSE",
+                "path_type": "hardlink",
+                "sha256": "dff66bca3893838937d740153cd5730fbe33af8b172b9a34f2f963dade06347e",
+                "sha256_in_prefix": "dff66bca3893838937d740153cd5730fbe33af8b172b9a34f2f963dade06347e",
+                "size_in_bytes": 1097
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker-0.8.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "5b4b7e5c4edb4f6c94728e4d77a2782de2bb666ff58d13b00b00cba55a467d3a",
+                "sha256_in_prefix": "5b4b7e5c4edb4f6c94728e4d77a2782de2bb666ff58d13b00b00cba55a467d3a",
+                "size_in_bytes": 1033
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker-0.8.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "5b13b706c0a6de652e295c39f9328d41baa4de3bea48d0889873227cea36698e",
+                "sha256_in_prefix": "5b13b706c0a6de652e295c39f9328d41baa4de3bea48d0889873227cea36698e",
+                "size_in_bytes": 7403
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker-0.8.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+                "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+                "size_in_bytes": 110
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker-0.8.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "799abc8df897324061036204d7d25acacc5f5b1250e62acd83147d550696f858",
+                "sha256_in_prefix": "799abc8df897324061036204d7d25acacc5f5b1250e62acd83147d550696f858",
+                "size_in_bytes": 83
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker-0.8.dist-info/top_level.txt",
+                "path_type": "hardlink",
+                "sha256": "77a8910f86b10e0699ec8554d89f98888ee70aca19b67dc27eebfb13fd8a95e9",
+                "sha256_in_prefix": "77a8910f86b10e0699ec8554d89f98888ee70aca19b67dc27eebfb13fd8a95e9",
+                "size_in_bytes": 10
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "7622caff5cc6c85bae6e71998d0e3504ac08ad8cf3d9c43246c29b3f232e513b",
+                "sha256_in_prefix": "7622caff5cc6c85bae6e71998d0e3504ac08ad8cf3d9c43246c29b3f232e513b",
+                "size_in_bytes": 2271
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/19.05.14_colorblind.ipynb",
+                "path_type": "hardlink",
+                "sha256": "a06014964aafa7ae564ddd3420045cd463817e4033c581986283d8f197ed1150",
+                "sha256_in_prefix": "a06014964aafa7ae564ddd3420045cd463817e4033c581986283d8f197ed1150",
+                "size_in_bytes": 104703
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/datafiles/ars_sequences.txt.gz",
+                "path_type": "hardlink",
+                "sha256": "b5061cb692daa92ba1ff6f486d114dee5e0bc6b2c30f54b5e36e26bc1f93c1c2",
+                "sha256_in_prefix": "b5061cb692daa92ba1ff6f486d114dee5e0bc6b2c30f54b5e36e26bc1f93c1c2",
+                "size_in_bytes": 10254351
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/datafiles/ars_wt_sequence.txt",
+                "path_type": "hardlink",
+                "sha256": "cb3e2c9871cc302388bcfd1640400d9c29e88ad019c15da74c46e349bd3bec9e",
+                "sha256_in_prefix": "cb3e2c9871cc302388bcfd1640400d9c29e88ad019c15da74c46e349bd3bec9e",
+                "size_in_bytes": 319
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/datafiles/crp_sites.fa",
+                "path_type": "hardlink",
+                "sha256": "e67ff2f70201cd138fdaf9080359f4b35152d01d94abaa22c643592e2b351649",
+                "sha256_in_prefix": "e67ff2f70201cd138fdaf9080359f4b35152d01d94abaa22c643592e2b351649",
+                "size_in_bytes": 15980
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/datafiles/nn_saliency_values.txt",
+                "path_type": "hardlink",
+                "sha256": "0cdece65c3a3b9f46c50fd93ff2a6715a82be1e43b966baa693bef0c58f7d380",
+                "sha256_in_prefix": "0cdece65c3a3b9f46c50fd93ff2a6715a82be1e43b966baa693bef0c58f7d380",
+                "size_in_bytes": 3231
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/datafiles/ss_sequences.txt",
+                "path_type": "hardlink",
+                "sha256": "57720d487a803c482cb5dec902133e2dc484d6a35824e6ce2c7df9e04842ef5e",
+                "sha256_in_prefix": "57720d487a803c482cb5dec902133e2dc484d6a35824e6ce2c7df9e04842ef5e",
+                "size_in_bytes": 125480
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/datafiles/ww_sequences.fa",
+                "path_type": "hardlink",
+                "sha256": "c8a05e156f5a07eb0ac4bd013f492f0b9d38ee61ac4f48bc762ebc4397558dea",
+                "sha256_in_prefix": "c8a05e156f5a07eb0ac4bd013f492f0b9d38ee61ac4f48bc762ebc4397558dea",
+                "size_in_bytes": 249232
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/demo_colorschemes.py",
+                "path_type": "hardlink",
+                "sha256": "c9e2e47164eb5178db4b811e23be6926677d735be69139431a3c54276b195439",
+                "sha256_in_prefix": "c9e2e47164eb5178db4b811e23be6926677d735be69139431a3c54276b195439",
+                "size_in_bytes": 1648
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/demo_fig1b.py",
+                "path_type": "hardlink",
+                "sha256": "50a4eae86053ebf72d2566d0ddc6865116233bb5f13780773fdf4b8f1ef46c1b",
+                "sha256_in_prefix": "50a4eae86053ebf72d2566d0ddc6865116233bb5f13780773fdf4b8f1ef46c1b",
+                "size_in_bytes": 837
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/demo_fig1c.py",
+                "path_type": "hardlink",
+                "sha256": "c8865feea1239a4f314816a51280dba6fd002ad8b5533695f3e195155df63710",
+                "sha256_in_prefix": "c8865feea1239a4f314816a51280dba6fd002ad8b5533695f3e195155df63710",
+                "size_in_bytes": 960
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/demo_fig1d.py",
+                "path_type": "hardlink",
+                "sha256": "960e19c1af95ff1a3087b2dcc3432c96632682f51d311b838d9352edb6c5e498",
+                "sha256_in_prefix": "960e19c1af95ff1a3087b2dcc3432c96632682f51d311b838d9352edb6c5e498",
+                "size_in_bytes": 800
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/demo_fig1e.py",
+                "path_type": "hardlink",
+                "sha256": "439cee083cf412ed5e11ed5f6e580d4094ba3a1a6d0c5dd204e3b73533ad03ae",
+                "sha256_in_prefix": "439cee083cf412ed5e11ed5f6e580d4094ba3a1a6d0c5dd204e3b73533ad03ae",
+                "size_in_bytes": 1484
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/demo_fig1f.py",
+                "path_type": "hardlink",
+                "sha256": "9c8ab42b2b0c9b8d1c19dd577ea61c47a54c3f2acb02d17f4d5f8b07a433db4d",
+                "sha256_in_prefix": "9c8ab42b2b0c9b8d1c19dd577ea61c47a54c3f2acb02d17f4d5f8b07a433db4d",
+                "size_in_bytes": 1326
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/demo_logo.py",
+                "path_type": "hardlink",
+                "sha256": "123e5550a4b97d0f62bc02b9d02f09ddcf37b0a7a75da3349742d9db71c9df4d",
+                "sha256_in_prefix": "123e5550a4b97d0f62bc02b9d02f09ddcf37b0a7a75da3349742d9db71c9df4d",
+                "size_in_bytes": 1174
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/examples.ipynb",
+                "path_type": "hardlink",
+                "sha256": "2e65ae445ba031312d4df312eef31306d6ee7623336512b9a916c5b8819ae14b",
+                "sha256_in_prefix": "2e65ae445ba031312d4df312eef31306d6ee7623336512b9a916c5b8819ae14b",
+                "size_in_bytes": 384647
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/figure.ipynb",
+                "path_type": "hardlink",
+                "sha256": "bc821784bfbb020d1ff8726354cdc76ab5ea153e32baddf326a173aace485b34",
+                "sha256_in_prefix": "bc821784bfbb020d1ff8726354cdc76ab5ea153e32baddf326a173aace485b34",
+                "size_in_bytes": 92059
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos/ars_enrichment_logo.png",
+                "path_type": "hardlink",
+                "sha256": "8dc6542f6cf8b69cefafaebbbc23f0a7d672a51e00848749aa336d557806c5f6",
+                "sha256_in_prefix": "8dc6542f6cf8b69cefafaebbbc23f0a7d672a51e00848749aa336d557806c5f6",
+                "size_in_bytes": 36277
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos/color_schemes.png",
+                "path_type": "hardlink",
+                "sha256": "a8aca6573e44b406ae8f8fdd1d23433871da081dee0f313dedd9f24db099d215",
+                "sha256_in_prefix": "a8aca6573e44b406ae8f8fdd1d23433871da081dee0f313dedd9f24db099d215",
+                "size_in_bytes": 55329
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos/crp_energy_logo.png",
+                "path_type": "hardlink",
+                "sha256": "913430ddc4f90ab2a118a4d10e2ef65b68a10537e4cfe91755bd6d252a69459e",
+                "sha256_in_prefix": "913430ddc4f90ab2a118a4d10e2ef65b68a10537e4cfe91755bd6d252a69459e",
+                "size_in_bytes": 37713
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos/figure1_logos.pdf",
+                "path_type": "hardlink",
+                "sha256": "de0a7890bc966ae8357a217135647c16803465f8fe8a7b138803b5ad67172ab9",
+                "sha256_in_prefix": "de0a7890bc966ae8357a217135647c16803465f8fe8a7b138803b5ad67172ab9",
+                "size_in_bytes": 492744
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos/logomaker_logo.png",
+                "path_type": "hardlink",
+                "sha256": "a5831c0e167e2ef759e9572464cdbe65d2373f461561fa00ed4b791a23699e56",
+                "sha256_in_prefix": "a5831c0e167e2ef759e9572464cdbe65d2373f461561fa00ed4b791a23699e56",
+                "size_in_bytes": 7931
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos/nn_saliency_logo.png",
+                "path_type": "hardlink",
+                "sha256": "fc12d9cfa288ecda5eddcb191bfd9d903aec29e9bd5f87f12f468261a04db01d",
+                "sha256_in_prefix": "fc12d9cfa288ecda5eddcb191bfd9d903aec29e9bd5f87f12f468261a04db01d",
+                "size_in_bytes": 13677
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos/ss_probability_logo.png",
+                "path_type": "hardlink",
+                "sha256": "206769f0e13fd2b3c1563a3b8cd27b2ed7f790efdc1e30734d4cf3e4077765dd",
+                "sha256_in_prefix": "206769f0e13fd2b3c1563a3b8cd27b2ed7f790efdc1e30734d4cf3e4077765dd",
+                "size_in_bytes": 40544
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos/ww_information_logo.png",
+                "path_type": "hardlink",
+                "sha256": "1d0916d360be18f5d67fb295292d35b4166e331b7dc0f8470e8ae696d8c73d62",
+                "sha256_in_prefix": "1d0916d360be18f5d67fb295292d35b4166e331b7dc0f8470e8ae696d8c73d62",
+                "size_in_bytes": 41070
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/logos_from_datafiles.ipynb",
+                "path_type": "hardlink",
+                "sha256": "7d64c82ae7b221d1680591e2160f8bdc5810cf31c61bc5e47fe63e8c2d42011e",
+                "sha256_in_prefix": "7d64c82ae7b221d1680591e2160f8bdc5810cf31c61bc5e47fe63e8c2d42011e",
+                "size_in_bytes": 232814
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/matrices/ars_enrichment_matrix.txt",
+                "path_type": "hardlink",
+                "sha256": "f09c5d3d5fa1f24412abc811348b832ee357e7e2774a05aa05c7b8209c9628a6",
+                "sha256_in_prefix": "f09c5d3d5fa1f24412abc811348b832ee357e7e2774a05aa05c7b8209c9628a6",
+                "size_in_bytes": 12995
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/matrices/crp_counts_matrix.txt",
+                "path_type": "hardlink",
+                "sha256": "2249ad55450e7768653c335671cd4df9726353e06a33c7732716e4076bdfbfbe",
+                "sha256_in_prefix": "2249ad55450e7768653c335671cd4df9726353e06a33c7732716e4076bdfbfbe",
+                "size_in_bytes": 941
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/matrices/crp_energy_matrix.txt",
+                "path_type": "hardlink",
+                "sha256": "a58034db313761b9194314650b277f038cc26e77dccb0d4de827d4884043fe50",
+                "sha256_in_prefix": "a58034db313761b9194314650b277f038cc26e77dccb0d4de827d4884043fe50",
+                "size_in_bytes": 2451
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/matrices/logomaker_logo_matrix.txt",
+                "path_type": "hardlink",
+                "sha256": "5d310ded9074997f8bc19e8e75134bbad49ab7e1065496c84ed69c696cce4c00",
+                "sha256_in_prefix": "5d310ded9074997f8bc19e8e75134bbad49ab7e1065496c84ed69c696cce4c00",
+                "size_in_bytes": 195
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/matrices/nn_saliency_matrix.txt",
+                "path_type": "hardlink",
+                "sha256": "01a7aae81e798989a928cf77ced7f54a5920027b387c4213c7b24fa2f71da129",
+                "sha256_in_prefix": "01a7aae81e798989a928cf77ced7f54a5920027b387c4213c7b24fa2f71da129",
+                "size_in_bytes": 4990
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/matrices/ss_probability_matrix.txt",
+                "path_type": "hardlink",
+                "sha256": "c3299ec7abbdd0315a543dc8f1b30e819857f66bafce411fc00fe3ee0864fce5",
+                "sha256_in_prefix": "c3299ec7abbdd0315a543dc8f1b30e819857f66bafce411fc00fe3ee0864fce5",
+                "size_in_bytes": 973
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/matrices/ww_counts_matrix.txt",
+                "path_type": "hardlink",
+                "sha256": "53a1677e182acaf5bc64a054aa5a9319a13853fed6f33c3bbc5e741ab0428fb0",
+                "sha256_in_prefix": "53a1677e182acaf5bc64a054aa5a9319a13853fed6f33c3bbc5e741ab0428fb0",
+                "size_in_bytes": 3437
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/matrices/ww_information_matrix.txt",
+                "path_type": "hardlink",
+                "sha256": "ef08b46ec179fb49e074c7e96cbc5675e7648536e2771a9a6e715289fba25720",
+                "sha256_in_prefix": "ef08b46ec179fb49e074c7e96cbc5675e7648536e2771a9a6e715289fba25720",
+                "size_in_bytes": 12924
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/scratch.ipynb",
+                "path_type": "hardlink",
+                "sha256": "2488a41c944c5666393afe791c9c662c824ec775dd76a4aa0f25f19f158e3291",
+                "sha256_in_prefix": "2488a41c944c5666393afe791c9c662c824ec775dd76a4aa0f25f19f158e3291",
+                "size_in_bytes": 1612
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/Glyph.py",
+                "path_type": "hardlink",
+                "sha256": "3fc4c1c1975afec1a9a5bc1eeea7e729aeb35042103cdedb9e772ac49e167d3d",
+                "sha256_in_prefix": "3fc4c1c1975afec1a9a5bc1eeea7e729aeb35042103cdedb9e772ac49e167d3d",
+                "size_in_bytes": 15620
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/Logo.py",
+                "path_type": "hardlink",
+                "sha256": "49a08d255dcecbd265d0c49625259536931759dbd66e198232033ebe1a221b35",
+                "sha256_in_prefix": "49a08d255dcecbd265d0c49625259536931759dbd66e198232033ebe1a221b35",
+                "size_in_bytes": 38328
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/colors.py",
+                "path_type": "hardlink",
+                "sha256": "2de818ceb6cec92182bd0f3dcadbed6f0d57bd082e8886e810d1fe62bdece966",
+                "sha256_in_prefix": "2de818ceb6cec92182bd0f3dcadbed6f0d57bd082e8886e810d1fe62bdece966",
+                "size_in_bytes": 10758
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/error_handling.py",
+                "path_type": "hardlink",
+                "sha256": "3d1463d3f50f5e13052917d8d8db676ab05a8030702716c5d853f6d8df12de0e",
+                "sha256_in_prefix": "3d1463d3f50f5e13052917d8d8db676ab05a8030702716c5d853f6d8df12de0e",
+                "size_in_bytes": 4390
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/examples.py",
+                "path_type": "hardlink",
+                "sha256": "395a1f6aa44020af77a21ed37585ef20e348d1fc6c8d4035ec7d4985183950df",
+                "sha256_in_prefix": "395a1f6aa44020af77a21ed37585ef20e348d1fc6c8d4035ec7d4985183950df",
+                "size_in_bytes": 4242
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/matrix.py",
+                "path_type": "hardlink",
+                "sha256": "d36602940ca3818ea67a03a6e878812aff7ef7c334d47ea21f812a3b156f7ae0",
+                "sha256_in_prefix": "d36602940ca3818ea67a03a6e878812aff7ef7c334d47ea21f812a3b156f7ae0",
+                "size_in_bytes": 27960
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/validate.py",
+                "path_type": "hardlink",
+                "sha256": "d16d954e82dd1a5cf0dc4b05982c0ba0392a355c6021921ba30f1c169f4c0a0f",
+                "sha256_in_prefix": "d16d954e82dd1a5cf0dc4b05982c0ba0392a355c6021921ba30f1c169f4c0a0f",
+                "size_in_bytes": 5950
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/tests/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/tests/functional_test_output.txt",
+                "path_type": "hardlink",
+                "sha256": "90adbdafedb76b6b18ec2ec30238555c7447deba9650a70c4b2924876a5c3b85",
+                "sha256_in_prefix": "90adbdafedb76b6b18ec2ec30238555c7447deba9650a70c4b2924876a5c3b85",
+                "size_in_bytes": 43219
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/tests/functional_tests_logomaker.py",
+                "path_type": "hardlink",
+                "sha256": "42c2ad699cb18e9c829fad4ea9d67e1a9a84c0a81586b208d3498b2159435ee2",
+                "sha256_in_prefix": "42c2ad699cb18e9c829fad4ea9d67e1a9a84c0a81586b208d3498b2159435ee2",
+                "size_in_bytes": 31430
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/__pycache__/__init__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_colorschemes.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1b.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1c.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1d.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1e.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_fig1f.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/examples/__pycache__/demo_logo.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__pycache__/Glyph.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__pycache__/Logo.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__pycache__/__init__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__pycache__/colors.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__pycache__/error_handling.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__pycache__/examples.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__pycache__/matrix.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/src/__pycache__/validate.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/tests/__pycache__/__init__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/logomaker/tests/__pycache__/functional_tests_logomaker.cpython-311.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "logomaker[version='>=0.8']",
+    "sha256": "84ea5e3f663d434bf49c288e3906aff17b0f78c0b59f97940967395d2eac36b9",
+    "size": 11754940,
+    "subdir": "noarch",
+    "timestamp": 1595955513273,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/bioconda/noarch/logomaker-0.8-pyh864c0ab_1.tar.bz2",
+    "version": "0.8"
+}
